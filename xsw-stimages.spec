@@ -5,8 +5,6 @@ Version:	1.7
 Release:	1
 License:	Modified GPL
 Group:		Applications/Games
-Group(de):	Applikationen/Spiele
-Group(pl):	Aplikacje/Gry
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/stimages%{version}.tar.bz
 URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
 Provides:	xsw-images
