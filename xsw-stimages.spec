@@ -19,7 +19,7 @@ package contains StarTrek graphics theme for the game.
 %description -l pl
 XShipWars to wysoko konfigurowalny system gry w przestrzeni kosmicznej
 dla wielu graczy, zaprojektowany do grania przez Internet. Ten pakiet
-zawiera temat graficzny Star Trek dla tej gry.
+zawiera motyw graficzny Star Trek dla tej gry.
 
 %prep
 
