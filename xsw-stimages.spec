@@ -2,8 +2,8 @@ Summary:	XShipWars graphics (Star Trek theme)
 Summary(pl):	Grafika do XShipWars (motyw Star Trek)
 Name:		xsw-stimages
 Version:	1.7
-Release:	1
-License:	Modified GPL
+Release:	2
+License:	GPL-like
 Group:		Applications/Games
 Source0:	ftp://gd.tuwien.ac.at/games/wolfpack/stimages%{version}.tar.bz
 URL:		http://wolfpack.twu.net/ShipWars/XShipWars/
