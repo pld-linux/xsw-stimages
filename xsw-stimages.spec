@@ -1,4 +1,5 @@
-Summary:	XShipWars sounds (Star Trek theme)
+Summary:	XShipWars graphics (Star Trek theme)
+Summary(pl):	Grafika do XShipWars (motyw Star Trek)
 Name:		xsw-stimages
 Version:	1.7
 Release:	1
@@ -18,15 +19,18 @@ XShipWars is a highly customizable and massivly multiplayer space
 gamming system designed for play entirly over the Internet.
 This package contains StarTrek graphics theme for the game.
 
-%prep
+%description -l pl
+XShipWars to wysoko konfigurowalny system gry w przestrzeni kosmicznej
+dla wielu graczy, zaprojektowany do grania przez Internet. Ten pakiet
+zawiera temat graficzny Star Trek dla tej gry.
 
-%build
+%prep
 
 %install
 rm -rf $RPM_BUILD_ROOT
-install -d $RPM_BUILD_ROOT/%{_datadir}/xshipwars/
+install -d $RPM_BUILD_ROOT%{_datadir}/xshipwars
 
-cd $RPM_BUILD_ROOT/%{_datadir}/xshipwars/
+cd $RPM_BUILD_ROOT%{_datadir}/xshipwars
 tar xzf %{SOURCE0}
 
 %clean
