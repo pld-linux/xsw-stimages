@@ -1,5 +1,5 @@
 Summary:	XShipWars graphics (Star Trek theme)
-Summary(pl.UTF-8):   Grafika do XShipWars (motyw Star Trek)
+Summary(pl.UTF-8):	Grafika do XShipWars (motyw Star Trek)
 Name:		xsw-stimages
 Version:	1.7
 Release:	2
