@@ -1,5 +1,5 @@
 Summary:	XShipWars graphics (Star Trek theme)
-Summary(pl):	Grafika do XShipWars (motyw Star Trek)
+Summary(pl.UTF-8):   Grafika do XShipWars (motyw Star Trek)
 Name:		xsw-stimages
 Version:	1.7
 Release:	2
@@ -17,7 +17,7 @@ XShipWars is a highly customizable and massivly multiplayer space
 gamming system designed for play entirly over the Internet. This
 package contains StarTrek graphics theme for the game.
 
-%description -l pl
+%description -l pl.UTF-8
 XShipWars to wysoko konfigurowalny system gry w przestrzeni kosmicznej
 dla wielu graczy, zaprojektowany do grania przez Internet. Ten pakiet
 zawiera motyw graficzny Star Trek dla tej gry.
